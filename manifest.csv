@@ -1,0 +1,7 @@
+"ID","name","versionNumber","contentType","dataFileSizeBytes","createdBy","createdOn","modifiedBy","modifiedOn","parentId","synapseURL","dataFileMD5Hex"
+"syn2368101","PLM-PVA_data_dictionary.doc","1","","135168","3320203","1394662818610","3320203","1394662818721","syn2321748","https://www.synapse.org/#!Synapse:syn2368101.1","30fc73e63b820ffa88802a4f756d8e66"
+"syn2486322","plmpva_test-NoPDRS.csv","1","text/csv","154779","273977","1401408728728","273977","1401408729220","syn2321748","https://www.synapse.org/#!Synapse:syn2486322.1","7045820cc11426082f8f665fa5c1b51f"
+"syn7115409","plmpva_test-WithPDRS.csv","1","text/csv","170115","273977","1470773792636","273977","1470773792636","syn2321748","https://www.synapse.org/#!Synapse:syn7115409.1","9aeb47fc1baa70599fdb23e55e81093d"
+"syn2368088","plmpva_train.csv","1","","187566","3320203","1394660975761","3320203","1394660975882","syn2321748","https://www.synapse.org/#!Synapse:syn2368088.1","e733e7fe6e47190df5eb4c8c6fc19f6d"
+"syn2368098","pva_wav_train.zip","1","application/x-zip-compressed","65465369","3320203","1394661871808","3320203","1394661872017","syn2321748","https://www.synapse.org/#!Synapse:syn2368098.1","5f086801f1ca662f0672dd85c3c76d32"
+"syn2495740","pva_wav_test.zip","1","application/zip","69263926","273977","1402010953831","273977","1402010953966","syn2321748","https://www.synapse.org/#!Synapse:syn2495740.1","33fbad3ea69109ecb95f1c41b61a7c78"
